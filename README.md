@@ -1,4 +1,4 @@
-# [colombia.dev] - Código de Conducta
+# Acceso Libre - Código de Conducta
 
 ## 1. Propósito
 
@@ -49,7 +49,7 @@ discriminación, comunicación despectiva o degradante o acciones por cualquier
 participante en nuestra comunidad ya sea en internet, en todos los eventos 
 relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de
 los negocios de la comunidad. Es posible que los lugares para eventos
-comunitarios sean de uso compartido con los miembros del público; por favor se 
+comunitarios sean de uso compartido con los miembros del público; por favor sé 
 respetuoso con todos aquellos que los frecuentan.
 
 El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos
